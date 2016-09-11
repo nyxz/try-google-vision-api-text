@@ -1,0 +1,13 @@
+{
+    "latLongRect": {
+        "minLatLng": {
+            "latitude": "41.24",
+            "longitude": "22.37"
+        },
+        "maxLatLng": {
+            "latitude": "44.21",
+            "longitude": "28.61"
+        }
+    },
+    "languageHints": ["bg"]
+}

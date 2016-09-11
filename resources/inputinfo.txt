@@ -1,0 +1,1 @@
+resources/images/receipt-big-bin.jpg 5:20
